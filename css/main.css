@@ -34,7 +34,7 @@ ul {
   color: #fff;
 }
 
-:not(.no-highlight) {
+a:not(.no-highlight) {
   background-color: #719e07;
 }
 
