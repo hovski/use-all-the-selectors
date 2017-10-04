@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  font-size:1.5rem;
+  font-size: 1.5rem;
 }
 
 footer {
@@ -42,7 +42,7 @@ ul {
   background-color: #2694d8;
 }
 
-ol > li ::first-line{
+ol > li ::first-line {
   color: #719e47;
 }
 
