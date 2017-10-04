@@ -52,3 +52,6 @@ ol > li:last-child {
 .types > li:nth-of-type(odd) {
   background-color: #657ba3;
 }
+.types > li:nth-of-type(even) {
+  background-color: #586e75;
+}
